@@ -9,8 +9,7 @@ public enum HwAcc {
 
     private int mType;
 
-    HwAcc (int type)
-    {
+    HwAcc (int type) {
         this.mType = type;
     }
 
