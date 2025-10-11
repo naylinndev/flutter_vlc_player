@@ -8,8 +8,7 @@ public enum DataSourceType {
 
     private int mType;
 
-    DataSourceType (int type)
-    {
+    DataSourceType (int type){
         this.mType = type;
     }
 
